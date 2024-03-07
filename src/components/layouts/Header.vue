@@ -27,11 +27,11 @@
             aria-expanded="false"
           >
           <img
-            src="/src/assets/images/profilepicture.png"
-            class="rounded-circle"
-            style="width: 40px"
-            alt="Avatar"
-          />
+                          src="/src/assets/images/profilepicture.png"
+                          class="rounded-circle"
+                          style="width: 40px"
+                          alt="Avatar"
+                        />
           </button>
           <ul class="dropdown-menu font-12 w-350">
             <li class="border-bottom-f">
@@ -47,11 +47,11 @@
                     aria-expanded="false"
                   >
                   <img
-                    src="/src/assets/images/profilepicture.png"
-                    class="rounded-circle"
-                    style="width: 40px"
-                    alt="Avatar"
-                  />
+                          src="/src/assets/images/profilepicture.png"
+                          class="rounded-circle"
+                          style="width: 40px"
+                          alt="Avatar"
+                        />
                   </button>
                 </div>
                 <div class="pl-10">

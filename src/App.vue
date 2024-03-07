@@ -2,7 +2,7 @@
   <div class="container-fluid p-4">
     <Header />
     <div class="row my-2">
-      <div class="col-lg-8 grid-margin stretch-card">
+      <div class="col-lg-9 grid-margin stretch-card">
         <TradingChartCard />
         <Footer />
       </div>
